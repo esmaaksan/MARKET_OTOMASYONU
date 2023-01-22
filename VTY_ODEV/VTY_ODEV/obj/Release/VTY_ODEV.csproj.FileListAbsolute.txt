@@ -1,0 +1,15 @@
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\bin\Release\VTY_ODEV.exe.config
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\bin\Release\VTY_ODEV.exe
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\bin\Release\VTY_ODEV.pdb
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.csproj.AssemblyReference.cache
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.csproj.SuggestedBindingRedirects.cache
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.Form1.resources
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.Form2.resources
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.Form3.resources
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.Form4.resources
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.Properties.Resources.resources
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.csproj.GenerateResource.cache
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.exe
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.pdb
+C:\Users\mm\source\repos\VTY_Odev\VTY_ODEV\obj\Release\VTY_ODEV.Form5.resources
